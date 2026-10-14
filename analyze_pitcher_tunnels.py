@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 
+
 from src.data import get_pitcher_statcast
 from src.trajectory import (
     DEFAULT_DECISION_Y,
